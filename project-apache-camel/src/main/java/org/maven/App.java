@@ -17,7 +17,7 @@ public class App
 {
     public static void main( String[] args ) throws IOException
     {
-        /**System.out.println( "Hello World!" );
+        System.out.println( "Hello World!" );
         
         Properties vProps = new Properties();
         InputStream vInputStream = null;
@@ -31,7 +31,7 @@ public class App
         	}
         }
         System.out.println( "Application version : " + vProps.getProperty("org.maven.version", "?"));
-        */
+      
     }
 }
 
